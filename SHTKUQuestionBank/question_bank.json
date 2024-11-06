@@ -1,0 +1,5085 @@
+[
+    {
+        "id": 1,
+        "question": "热处理的定义: 热处理的主要目的是通过加热和冷却过程改变材料的什么？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "颜色和形状"
+            },
+            {
+                "label": "B",
+                "text": "内部组织和性能"
+            },
+            {
+                "label": "C",
+                "text": "化学成分"
+            },
+            {
+                "label": "D",
+                "text": "表面粗糙度"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 2,
+        "question": "热处理的主要应用领域: 以下哪个行业不属于热处理的主要应用领域？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "机械制造"
+            },
+            {
+                "label": "B",
+                "text": "医药化学"
+            },
+            {
+                "label": "C",
+                "text": "汽车制造"
+            },
+            {
+                "label": "D",
+                "text": "航空航天"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 3,
+        "question": "热处理的目的: 热处理的主要目的是为了提高金属材料的哪种性能？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "导电性"
+            },
+            {
+                "label": "B",
+                "text": "力学性能热处理的目的"
+            },
+            {
+                "label": "C",
+                "text": "导热性"
+            },
+            {
+                "label": "D",
+                "text": "抗腐蚀性"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 4,
+        "question": "热处理的工艺特点: 热处理主要通过材料在固态范围内的加热、保温和冷却过程来达到什么目的？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "改变材料的密度"
+            },
+            {
+                "label": "B",
+                "text": "改变材料的内部组织"
+            },
+            {
+                "label": "C",
+                "text": "增加材料的体积"
+            },
+            {
+                "label": "D",
+                "text": "改变材料的颜色"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 5,
+        "question": "热处理的具体作用: 钢材经过热处理后，其性能提升的主要体现在：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "提高抗氧化性"
+            },
+            {
+                "label": "B",
+                "text": "提高透明度"
+            },
+            {
+                "label": "C",
+                "text": "提高硬度、强度和韧性"
+            },
+            {
+                "label": "D",
+                "text": "提高弹性模量"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 5,
+        "question": "退火工艺的定义: 退火的主要目的是通过缓慢冷却来达到什么效果？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "提高材料的导电性"
+            },
+            {
+                "label": "B",
+                "text": "提高材料的硬度"
+            },
+            {
+                "label": "C",
+                "text": "降低材料的硬度并消除内应力"
+            },
+            {
+                "label": "D",
+                "text": "提高材料的抗腐蚀性"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 6,
+        "question": "正火的冷却方式: 正火的冷却方式一般是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "炉冷"
+            },
+            {
+                "label": "B",
+                "text": "空冷"
+            },
+            {
+                "label": "C",
+                "text": "油冷"
+            },
+            {
+                "label": "D",
+                "text": "水冷"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 7,
+        "question": "淬火的主要目的: 淬火的主要目的是为了使钢材获得哪种组织？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "珠光体"
+            },
+            {
+                "label": "B",
+                "text": "铁素体"
+            },
+            {
+                "label": "C",
+                "text": "奥氏体"
+            },
+            {
+                "label": "D",
+                "text": "马氏体"
+            }
+        ],
+        "rightanswer": "D"
+    },
+    {
+        "id": 8,
+        "question": "回火的效果: 回火的主要作用是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "提高钢材的硬度"
+            },
+            {
+                "label": "B",
+                "text": "消除淬火后的内应力并调整硬度和韧性"
+            },
+            {
+                "label": "C",
+                "text": "改善钢材的导电性"
+            },
+            {
+                "label": "D",
+                "text": "增加材料的导热性"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 9,
+        "question": "正火与退火的区别: 退火和正火的主要区别在于：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "保温时间不同"
+            },
+            {
+                "label": "B",
+                "text": "加热温度不同"
+            },
+            {
+                "label": "C",
+                "text": "冷却方式不同"
+            },
+            {
+                "label": "D",
+                "text": "材料成分不同"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 10,
+        "question": "球化退火的应用: 球化退火主要用于哪种类型的钢材？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "低碳钢"
+            },
+            {
+                "label": "B",
+                "text": "中碳钢"
+            },
+            {
+                "label": "C",
+                "text": "过共析钢"
+            },
+            {
+                "label": "D",
+                "text": "不锈钢"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 11,
+        "question": "淬火介质的选择: 下列哪种介质最适合用来淬火获得高硬度的马氏体组织？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "空气"
+            },
+            {
+                "label": "B",
+                "text": "盐水"
+            },
+            {
+                "label": "C",
+                "text": "油"
+            },
+            {
+                "label": "D",
+                "text": "氮气"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 12,
+        "question": "回火温度与产物: 高温回火后主要形成哪种组织？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "马氏体"
+            },
+            {
+                "label": "B",
+                "text": "回火马氏体"
+            },
+            {
+                "label": "C",
+                "text": "回火屈氏体"
+            },
+            {
+                "label": "D",
+                "text": "回火索氏体"
+            }
+        ],
+        "rightanswer": "D"
+    },
+    {
+        "id": 13,
+        "question": "正火的主要效果: 正火的主要作用是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "增加硬度并细化晶粒"
+            },
+            {
+                "label": "B",
+                "text": "提高导电性"
+            },
+            {
+                "label": "C",
+                "text": "增强塑性"
+            },
+            {
+                "label": "D",
+                "text": "消除材料的表面缺陷"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 14,
+        "question": "低温回火的应用: 低温回火通常用于：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "调整高碳钢的硬度"
+            },
+            {
+                "label": "B",
+                "text": "增加奥氏体的稳定性"
+            },
+            {
+                "label": "C",
+                "text": "降低淬火钢的脆性并保持高硬度"
+            },
+            {
+                "label": "D",
+                "text": "提高材料的抗腐蚀性"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 14,
+        "question": "奥氏体的晶体结构: 奥氏体的晶体结构是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "体心立方（BCC）"
+            },
+            {
+                "label": "B",
+                "text": "面心立方（FCC）"
+            },
+            {
+                "label": "C",
+                "text": "六方密排（HCP）"
+            },
+            {
+                "label": "D",
+                "text": "单斜晶系"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 15,
+        "question": "珠光体的组成: 珠光体主要由哪两种组织组成？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "奥氏体和马氏体"
+            },
+            {
+                "label": "B",
+                "text": "铁素体和渗碳体"
+            },
+            {
+                "label": "C",
+                "text": "马氏体和残余奥氏体"
+            },
+            {
+                "label": "D",
+                "text": "铁素体和奥氏体"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 16,
+        "question": "马氏体的形成条件: 马氏体主要通过以下哪种方式获得？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "缓慢冷却"
+            },
+            {
+                "label": "B",
+                "text": "快速冷却"
+            },
+            {
+                "label": "C",
+                "text": "等温保持"
+            },
+            {
+                "label": "D",
+                "text": "高温保温"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 17,
+        "question": "奥氏体转变为马氏体的过程: 奥氏体在快速冷却过程中转变为马氏体的过程被称为：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "扩散转变"
+            },
+            {
+                "label": "B",
+                "text": "无扩散转变"
+            },
+            {
+                "label": "C",
+                "text": "珠光体转变"
+            },
+            {
+                "label": "D",
+                "text": "变形转变"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 18,
+        "question": "珠光体的结构特点: 珠光体的结构呈现为：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "细长针状结构"
+            },
+            {
+                "label": "B",
+                "text": "层状结构"
+            },
+            {
+                "label": "C",
+                "text": "点状分布"
+            },
+            {
+                "label": "D",
+                "text": "网状结构"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 19,
+        "question": "奥氏体的稳定温度区间: 在钢的热处理中，奥氏体通常稳定存在的温度范围是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "室温至727°C"
+            },
+            {
+                "label": "B",
+                "text": "727°C至911°C"
+            },
+            {
+                "label": "C",
+                "text": "911°C至1394°C"
+            },
+            {
+                "label": "D",
+                "text": "1394°C至1538°C"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 20,
+        "question": "马氏体的硬度: 马氏体相对于其他组织具有的特性是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "高塑性和低硬度"
+            },
+            {
+                "label": "B",
+                "text": "低强度和高延展性"
+            },
+            {
+                "label": "C",
+                "text": "高硬度和脆性"
+            },
+            {
+                "label": "D",
+                "text": "高韧性和低硬度"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 21,
+        "question": "奥氏体转变为珠光体的冷却速率: 奥氏体在缓慢冷却过程中主要转变为：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "马氏体"
+            },
+            {
+                "label": "B",
+                "text": "珠光体"
+            },
+            {
+                "label": "C",
+                "text": "残余奥氏体"
+            },
+            {
+                "label": "D",
+                "text": "渗碳体"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 22,
+        "question": "马氏体的晶体结构: 马氏体的晶体结构是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "面心立方（FCC）"
+            },
+            {
+                "label": "B",
+                "text": "体心立方（BCC）"
+            },
+            {
+                "label": "C",
+                "text": "体心四方（BCT）"
+            },
+            {
+                "label": "D",
+                "text": "六方密排（HCP）"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 23,
+        "question": "马氏体转变的影响因素: 马氏体转变的主要影响因素是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "冷却速度"
+            },
+            {
+                "label": "B",
+                "text": "加热时间"
+            },
+            {
+                "label": "C",
+                "text": "奥氏体的碳含量"
+            },
+            {
+                "label": "D",
+                "text": "炉内气氛"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 23,
+        "question": "热处理对硬度的影响: 淬火后的钢材通常表现出哪种性能变化？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "强度降低"
+            },
+            {
+                "label": "B",
+                "text": "韧性提高"
+            },
+            {
+                "label": "C",
+                "text": "硬度增加"
+            },
+            {
+                "label": "D",
+                "text": "延展性增加"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 24,
+        "question": "回火对钢材性能的作用: 钢材在淬火后进行回火处理的主要目的是为了：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "增加强度"
+            },
+            {
+                "label": "B",
+                "text": "提高韧性并降低脆性"
+            },
+            {
+                "label": "C",
+                "text": "降低硬度"
+            },
+            {
+                "label": "D",
+                "text": "增加延展性和导电性"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 25,
+        "question": "正火对力学性能的影响: 正火处理后，钢材的力学性能一般表现为：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "增加硬度和强度"
+            },
+            {
+                "label": "B",
+                "text": "降低硬度但提高韧性"
+            },
+            {
+                "label": "C",
+                "text": "硬度和强度降低"
+            },
+            {
+                "label": "D",
+                "text": "韧性和延展性降低"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 26,
+        "question": "退火对材料性能的效果: 退火处理后的钢材通常表现为：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "硬度和强度增加"
+            },
+            {
+                "label": "B",
+                "text": "韧性降低"
+            },
+            {
+                "label": "C",
+                "text": "增加塑性并降低硬度"
+            },
+            {
+                "label": "D",
+                "text": "导电性增强"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 27,
+        "question": "高碳钢的淬火效果: 高碳钢经过淬火后，其硬度和强度通常会：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "降低"
+            },
+            {
+                "label": "B",
+                "text": "提高"
+            },
+            {
+                "label": "C",
+                "text": "不变"
+            },
+            {
+                "label": "D",
+                "text": "先降低后提高"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 28,
+        "question": "马氏体对强度的贡献: 淬火形成的马氏体组织对钢材性能的主要贡献是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "增加导热性"
+            },
+            {
+                "label": "B",
+                "text": "提高韧性"
+            },
+            {
+                "label": "C",
+                "text": "提高硬度和强度"
+            },
+            {
+                "label": "D",
+                "text": "增加塑性"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 29,
+        "question": "低温回火对硬度的影响: 低温回火后的钢材硬度通常会：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "明显下降"
+            },
+            {
+                "label": "B",
+                "text": "保持高硬度"
+            },
+            {
+                "label": "C",
+                "text": "显著提高"
+            },
+            {
+                "label": "D",
+                "text": "保持不变"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 30,
+        "question": "高温回火对韧性的影响: 高温回火的主要目的是为了：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "增加硬度"
+            },
+            {
+                "label": "B",
+                "text": "提高强度"
+            },
+            {
+                "label": "C",
+                "text": "提高韧性并降低脆性"
+            },
+            {
+                "label": "D",
+                "text": "提高导电性"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 31,
+        "question": "珠光体对韧性的影响: 珠光体组织对钢材的韧性影响如何？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "提高硬度但降低韧性"
+            },
+            {
+                "label": "B",
+                "text": "提高强度和韧性"
+            },
+            {
+                "label": "C",
+                "text": "降低硬度但提高韧性"
+            },
+            {
+                "label": "D",
+                "text": "提高延展性"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 32,
+        "question": "固溶处理对合金的作用: 固溶处理后的合金通常表现为：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "硬度降低但延展性提高"
+            },
+            {
+                "label": "B",
+                "text": "强度和韧性同时增加"
+            },
+            {
+                "label": "C",
+                "text": "硬度和强度显著提高"
+            },
+            {
+                "label": "D",
+                "text": "韧性和塑性降低"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 32,
+        "question": "加热温度的选择: 在淬火过程中，加热温度一般应达到：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "A1点以上"
+            },
+            {
+                "label": "B",
+                "text": "A3点以下"
+            },
+            {
+                "label": "C",
+                "text": "Ms点以下"
+            },
+            {
+                "label": "D",
+                "text": "A1点以下"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 33,
+        "question": "保温时间的影响: 保温时间不足可能导致的主要问题是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "硬度降低"
+            },
+            {
+                "label": "B",
+                "text": "奥氏体未完全转变"
+            },
+            {
+                "label": "C",
+                "text": "马氏体脆性增加"
+            },
+            {
+                "label": "D",
+                "text": "表面脱碳"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 34,
+        "question": "冷却速度的影响: 在淬火过程中，冷却速度过慢会导致材料中出现：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "马氏体"
+            },
+            {
+                "label": "B",
+                "text": "贝氏体"
+            },
+            {
+                "label": "C",
+                "text": "珠光体"
+            },
+            {
+                "label": "D",
+                "text": "铁素体"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 35,
+        "question": "正火工艺的加热温度: 正火工艺通常将钢材加热到：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "Ac1点以上20-30°C"
+            },
+            {
+                "label": "B",
+                "text": "Ac3点以上30-50°C"
+            },
+            {
+                "label": "C",
+                "text": "Ms点以下10-20°C"
+            },
+            {
+                "label": "D",
+                "text": "Ac1点以下10-20°C"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 36,
+        "question": "快速冷却的效果: 快速冷却最有可能形成哪种组织？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "铁素体"
+            },
+            {
+                "label": "B",
+                "text": "珠光体"
+            },
+            {
+                "label": "C",
+                "text": "马氏体"
+            },
+            {
+                "label": "D",
+                "text": "渗碳体"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 37,
+        "question": "退火的保温时间: 退火工艺的保温时间主要取决于：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "冷却速度"
+            },
+            {
+                "label": "B",
+                "text": "工件材料和厚度"
+            },
+            {
+                "label": "C",
+                "text": "加热温度"
+            },
+            {
+                "label": "D",
+                "text": "淬火介质的种类"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 38,
+        "question": "冷却速度对淬透性的影响: 淬透性较差的钢材在冷却时最容易形成哪种组织？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "马氏体"
+            },
+            {
+                "label": "B",
+                "text": "贝氏体"
+            },
+            {
+                "label": "C",
+                "text": "珠光体"
+            },
+            {
+                "label": "D",
+                "text": "奥氏体"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 39,
+        "question": "加热温度过高的影响: 钢材加热温度过高可能会导致：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "马氏体析出"
+            },
+            {
+                "label": "B",
+                "text": "晶粒粗大"
+            },
+            {
+                "label": "C",
+                "text": "贝氏体转变"
+            },
+            {
+                "label": "D",
+                "text": "回火马氏体形成"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 40,
+        "question": "冷却速度与硬度的关系: 冷却速度越快，通常会导致钢材的：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "硬度提高，韧性降低"
+            },
+            {
+                "label": "B",
+                "text": "硬度降低，延展性提高"
+            },
+            {
+                "label": "C",
+                "text": "韧性和延展性同时提高"
+            },
+            {
+                "label": "D",
+                "text": "强度和韧性同时降低"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 41,
+        "question": "保温时间对组织转变的影响: 保温时间不足时，淬火后的钢材容易形成：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "全马氏体组织"
+            },
+            {
+                "label": "B",
+                "text": "残余奥氏体和珠光体混合组织"
+            },
+            {
+                "label": "C",
+                "text": "细晶珠光体"
+            },
+            {
+                "label": "D",
+                "text": "高温贝氏体"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 42,
+        "question": "加热温度对晶粒的影响: 如果钢材加热温度过高，最有可能的结果是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "晶粒细化"
+            },
+            {
+                "label": "B",
+                "text": "晶粒粗大"
+            },
+            {
+                "label": "C",
+                "text": "表面硬化"
+            },
+            {
+                "label": "D",
+                "text": "硬度降低"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 43,
+        "question": "快速冷却的缺陷: 快速冷却的主要缺陷是容易导致：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "硬度不足"
+            },
+            {
+                "label": "B",
+                "text": "残余应力和淬火裂纹"
+            },
+            {
+                "label": "C",
+                "text": "表面脱碳"
+            },
+            {
+                "label": "D",
+                "text": "加工性差"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 44,
+        "question": "保温时间过长的结果: 保温时间过长可能会导致钢材出现：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "软化"
+            },
+            {
+                "label": "B",
+                "text": "组织粗大"
+            },
+            {
+                "label": "C",
+                "text": "硬度升高"
+            },
+            {
+                "label": "D",
+                "text": "延展性降低"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 45,
+        "question": "冷却速度对回火效果的影响: 在回火工艺中，冷却速度较慢的主要作用是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "增加硬度"
+            },
+            {
+                "label": "B",
+                "text": "降低硬度并提高韧性"
+            },
+            {
+                "label": "C",
+                "text": "提高残余应力"
+            },
+            {
+                "label": "D",
+                "text": "细化晶粒"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 46,
+        "question": "加热速度的选择: 在淬火加热过程中，过快的加热速度可能会导致：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "硬度增加"
+            },
+            {
+                "label": "B",
+                "text": "表面脱碳"
+            },
+            {
+                "label": "C",
+                "text": "淬火裂纹"
+            },
+            {
+                "label": "D",
+                "text": "马氏体组织减弱"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 46,
+        "question": "优化低碳钢的韧性: 对于需要提高韧性的低碳钢零件，最合适的热处理工艺是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "淬火"
+            },
+            {
+                "label": "B",
+                "text": "退火"
+            },
+            {
+                "label": "C",
+                "text": "正火"
+            },
+            {
+                "label": "D",
+                "text": "高温回火"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 47,
+        "question": "高强度要求的齿轮热处理: 对于需要高强度和高耐磨性的汽车齿轮，最优的热处理工艺是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "球化退火"
+            },
+            {
+                "label": "B",
+                "text": "渗碳淬火+低温回火"
+            },
+            {
+                "label": "C",
+                "text": "等温退火"
+            },
+            {
+                "label": "D",
+                "text": "高频感应加热"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 48,
+        "question": "耐腐蚀性能的优化: 对于不锈钢零件，想要提高耐腐蚀性能，最有效的热处理方法是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "低温回火"
+            },
+            {
+                "label": "B",
+                "text": "固溶处理+时效处理"
+            },
+            {
+                "label": "C",
+                "text": "淬火"
+            },
+            {
+                "label": "D",
+                "text": "正火"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 49,
+        "question": "大型零件的应力消除: 大型钢结构件在焊接后，为了消除内应力和提高尺寸稳定性，最佳的热处理工艺是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "退火"
+            },
+            {
+                "label": "B",
+                "text": "去应力退火"
+            },
+            {
+                "label": "C",
+                "text": "淬火+回火"
+            },
+            {
+                "label": "D",
+                "text": "渗氮"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 50,
+        "question": "提高高碳钢的切削加工性: 为了提高高碳钢的切削加工性能，最佳的热处理工艺是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "低温回火"
+            },
+            {
+                "label": "B",
+                "text": "球化退火"
+            },
+            {
+                "label": "C",
+                "text": "高温回火"
+            },
+            {
+                "label": "D",
+                "text": "淬火"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 51,
+        "question": "高温合金的持久性能: 对于高温合金零件，如果需要提高其持久性能和抗蠕变性能，最优的热处理工艺是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "等温淬火"
+            },
+            {
+                "label": "B",
+                "text": "固溶处理+时效处理"
+            },
+            {
+                "label": "C",
+                "text": "渗碳"
+            },
+            {
+                "label": "D",
+                "text": "低温回火"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 52,
+        "question": "低合金钢的耐磨性优化: 如果想要提高低合金钢零件的表面耐磨性，最佳的热处理工艺是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "渗碳"
+            },
+            {
+                "label": "B",
+                "text": "高频感应加热"
+            },
+            {
+                "label": "C",
+                "text": "球化退火"
+            },
+            {
+                "label": "D",
+                "text": "高温回火"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 53,
+        "question": "淬火裂纹的减少: 为了减少淬火裂纹的出现，可以通过以下哪种方式优化工艺？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "增加加热速度"
+            },
+            {
+                "label": "B",
+                "text": "降低淬火加热温度并适当延长保温时间"
+            },
+            {
+                "label": "C",
+                "text": "缩短回火时间"
+            },
+            {
+                "label": "D",
+                "text": "提高冷却速度"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 54,
+        "question": "改善大件的淬透性: 为了提高大件的淬透性，最佳的措施是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "使用低碳钢材料"
+            },
+            {
+                "label": "B",
+                "text": "采用等温淬火工艺"
+            },
+            {
+                "label": "C",
+                "text": "增加合金元素并使用水淬"
+            },
+            {
+                "label": "D",
+                "text": "增加加热温度"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 55,
+        "question": "优化回火脆性: 为了避免回火脆性，可以通过以下哪种方式优化工艺？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "快速加热和快速冷却"
+            },
+            {
+                "label": "B",
+                "text": "延长回火时间"
+            },
+            {
+                "label": "C",
+                "text": "降低回火温度"
+            },
+            {
+                "label": "D",
+                "text": "回火后缓慢冷却"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 55,
+        "question": "低碳钢的常见热处理工艺: 对于低碳钢，常用的热处理工艺是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "淬火"
+            },
+            {
+                "label": "B",
+                "text": "正火"
+            },
+            {
+                "label": "C",
+                "text": "高温回火"
+            },
+            {
+                "label": "D",
+                "text": "渗碳"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 56,
+        "question": "高碳钢的硬度提升: 要提高高碳钢的硬度，通常采用的热处理工艺是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "渗氮"
+            },
+            {
+                "label": "B",
+                "text": "等温退火"
+            },
+            {
+                "label": "C",
+                "text": "淬火+低温回火"
+            },
+            {
+                "label": "D",
+                "text": "去应力退火"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 57,
+        "question": "中碳钢的调质处理: 中碳钢通常采用哪种热处理工艺来提高强度和韧性？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "固溶处理"
+            },
+            {
+                "label": "B",
+                "text": "淬火+高温回火（调质处理）"
+            },
+            {
+                "label": "C",
+                "text": "球化退火"
+            },
+            {
+                "label": "D",
+                "text": "渗碳淬火"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 58,
+        "question": "高温合金的固溶处理: 高温合金固溶处理的主要目的是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "提高导热性"
+            },
+            {
+                "label": "B",
+                "text": "增强高温强度和抗蠕变性能"
+            },
+            {
+                "label": "C",
+                "text": "提高塑性"
+            },
+            {
+                "label": "D",
+                "text": "降低硬度"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 59,
+        "question": "不锈钢的热处理: 对于奥氏体不锈钢，最常用的热处理工艺是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "淬火"
+            },
+            {
+                "label": "B",
+                "text": "固溶处理"
+            },
+            {
+                "label": "C",
+                "text": "正火"
+            },
+            {
+                "label": "D",
+                "text": "高温回火"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 60,
+        "question": "合金结构钢的渗碳处理: 合金结构钢常采用渗碳处理的目的是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "增加强度"
+            },
+            {
+                "label": "B",
+                "text": "提高表面硬度和耐磨性"
+            },
+            {
+                "label": "C",
+                "text": "提高延展性"
+            },
+            {
+                "label": "D",
+                "text": "降低脆性"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 61,
+        "question": "轴承钢的球化退火: 轴承钢常进行球化退火的主要目的是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "提高硬度"
+            },
+            {
+                "label": "B",
+                "text": "降低硬度并提高切削性能"
+            },
+            {
+                "label": "C",
+                "text": "增加延展性"
+            },
+            {
+                "label": "D",
+                "text": "提高耐腐蚀性"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 62,
+        "question": "中合金钢的调质处理: 中合金钢在调质处理后，其性能表现为：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "高硬度和低韧性"
+            },
+            {
+                "label": "B",
+                "text": "高强度和高韧性"
+            },
+            {
+                "label": "C",
+                "text": "高塑性和低强度"
+            },
+            {
+                "label": "D",
+                "text": "高硬度和高延展性"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 63,
+        "question": "弹簧钢的热处理: 弹簧钢在热处理中常采用的工艺是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "淬火+中温回火"
+            },
+            {
+                "label": "B",
+                "text": "退火"
+            },
+            {
+                "label": "C",
+                "text": "正火"
+            },
+            {
+                "label": "D",
+                "text": "去应力退火"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 64,
+        "question": "高速钢的硬度提升: 高速钢在硬度提升过程中，最常用的热处理方法是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "固溶处理"
+            },
+            {
+                "label": "B",
+                "text": "渗氮"
+            },
+            {
+                "label": "C",
+                "text": "淬火+低温回火"
+            },
+            {
+                "label": "D",
+                "text": "球化退火"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 64,
+        "question": "表面淬火的定义: 表面淬火的主要目的是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "提高材料的导热性"
+            },
+            {
+                "label": "B",
+                "text": "提高材料的表面硬度和耐磨性"
+            },
+            {
+                "label": "C",
+                "text": "提高材料的韧性"
+            },
+            {
+                "label": "D",
+                "text": "提高材料的延展性"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 65,
+        "question": "感应加热的特点: 感应加热的表面淬火适用于：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "大批量生产和复杂形状的零件"
+            },
+            {
+                "label": "B",
+                "text": "低成本、小批量生产"
+            },
+            {
+                "label": "C",
+                "text": "仅适用于大型零件"
+            },
+            {
+                "label": "D",
+                "text": "无法应用于小零件"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 66,
+        "question": "火焰加热表面淬火的优点: 火焰加热表面淬火的主要优点是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "成本低，设备简单"
+            },
+            {
+                "label": "B",
+                "text": "适合复杂零件的加工"
+            },
+            {
+                "label": "C",
+                "text": "适合大规模生产"
+            },
+            {
+                "label": "D",
+                "text": "硬化层深度控制精确"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 67,
+        "question": "高频感应加热的频率范围: 高频感应加热的频率范围通常为：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "50-100 Hz"
+            },
+            {
+                "label": "B",
+                "text": "500-1000 Hz"
+            },
+            {
+                "label": "C",
+                "text": "250-300 kHz"
+            },
+            {
+                "label": "D",
+                "text": "1-10 MHz"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 68,
+        "question": "中频感应加热的适用性: 中频感应加热的表面淬火适合用于：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "需要浅硬化层的小零件"
+            },
+            {
+                "label": "B",
+                "text": "需要深硬化层的大型零件"
+            },
+            {
+                "label": "C",
+                "text": "只能用于高碳钢"
+            },
+            {
+                "label": "D",
+                "text": "只能用于低合金钢"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 69,
+        "question": "油淬火的特点: 表面淬火中使用油淬火的主要目的是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "提高冷却速度，形成马氏体"
+            },
+            {
+                "label": "B",
+                "text": "提供较为温和的冷却，减少淬火裂纹"
+            },
+            {
+                "label": "C",
+                "text": "降低成本"
+            },
+            {
+                "label": "D",
+                "text": "提高淬透性"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 70,
+        "question": "盐浴淬火的优点: 盐浴淬火在表面淬火中的主要优点是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "冷却速度极快"
+            },
+            {
+                "label": "B",
+                "text": "冷却均匀，减少工件变形"
+            },
+            {
+                "label": "C",
+                "text": "成本低"
+            },
+            {
+                "label": "D",
+                "text": "适合大型零件"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 71,
+        "question": "火焰加热的适用场景: 火焰加热表面淬火最适用于：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "大批量生产的精密零件"
+            },
+            {
+                "label": "B",
+                "text": "小批量生产的中小型零件"
+            },
+            {
+                "label": "C",
+                "text": "需要深硬化层的零件"
+            },
+            {
+                "label": "D",
+                "text": "需要高韧性的零件"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 72,
+        "question": "感应加热的加热速度: 感应加热表面淬火的加热速度如何？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "较慢，适合厚大零件"
+            },
+            {
+                "label": "B",
+                "text": "较快，适合局部快速加热"
+            },
+            {
+                "label": "C",
+                "text": "温和，适合渐进加热"
+            },
+            {
+                "label": "D",
+                "text": "无法控制"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 73,
+        "question": "油淬火的局限性: 在表面淬火中，油淬火的主要局限性是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "冷却速度过慢"
+            },
+            {
+                "label": "B",
+                "text": "冷却速度不均匀，易产生变形"
+            },
+            {
+                "label": "C",
+                "text": "成本高"
+            },
+            {
+                "label": "D",
+                "text": "只能用于高碳钢"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 74,
+        "question": "盐浴淬火的典型应用: 盐浴淬火在表面淬火中的典型应用是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "适用于小批量生产"
+            },
+            {
+                "label": "B",
+                "text": "适用于大型厚壁零件的表面淬火"
+            },
+            {
+                "label": "C",
+                "text": "适用于高频感应加热"
+            },
+            {
+                "label": "D",
+                "text": "适用于低碳钢的淬火"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 75,
+        "question": "火焰加热的冷却介质: 在火焰加热表面淬火中，最常用的冷却介质是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "水"
+            },
+            {
+                "label": "B",
+                "text": "油"
+            },
+            {
+                "label": "C",
+                "text": "盐浴"
+            },
+            {
+                "label": "D",
+                "text": "气体"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 76,
+        "question": "高频感应加热的适用材料: 高频感应加热的表面淬火最适合用于哪类材料？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "中碳钢和高碳钢"
+            },
+            {
+                "label": "B",
+                "text": "低碳钢"
+            },
+            {
+                "label": "C",
+                "text": "铝合金"
+            },
+            {
+                "label": "D",
+                "text": "不锈钢"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 77,
+        "question": "盐浴淬火的冷却速度: 相对于水和油，盐浴淬火的冷却速度通常是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "最快"
+            },
+            {
+                "label": "B",
+                "text": "最慢"
+            },
+            {
+                "label": "C",
+                "text": "适中"
+            },
+            {
+                "label": "D",
+                "text": "不可预测"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 78,
+        "question": "表面淬火的硬化层深度: 在表面淬火工艺中，硬化层深度主要取决于：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "材料的导电性"
+            },
+            {
+                "label": "B",
+                "text": "加热时间和加热方式"
+            },
+            {
+                "label": "C",
+                "text": "冷却介质"
+            },
+            {
+                "label": "D",
+                "text": "保温时间"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 78,
+        "question": "渗碳处理的主要目的: 渗碳处理的主要目的是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "提高材料的塑性"
+            },
+            {
+                "label": "B",
+                "text": "提高材料的表面硬度和耐磨性"
+            },
+            {
+                "label": "C",
+                "text": "降低材料的强度"
+            },
+            {
+                "label": "D",
+                "text": "提高材料的延展性"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 79,
+        "question": "渗碳的适用材料: 渗碳处理最常用于以下哪种类型的材料？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "高碳钢"
+            },
+            {
+                "label": "B",
+                "text": "低碳钢和低合金钢"
+            },
+            {
+                "label": "C",
+                "text": "不锈钢"
+            },
+            {
+                "label": "D",
+                "text": "铝合金"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 80,
+        "question": "渗氮的应用场景: 渗氮工艺最适合用于以下哪类零件的表面硬化？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "切削工具"
+            },
+            {
+                "label": "B",
+                "text": "塑料模具"
+            },
+            {
+                "label": "C",
+                "text": "高温耐磨零件"
+            },
+            {
+                "label": "D",
+                "text": "船用钢材"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 81,
+        "question": "碳氮共渗的优点: 碳氮共渗相对于单独的渗碳或渗氮，其主要优点是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "提高硬度，但降低韧性"
+            },
+            {
+                "label": "B",
+                "text": "硬化层较浅，但耐磨性强"
+            },
+            {
+                "label": "C",
+                "text": "表面硬度和耐腐蚀性同时提高"
+            },
+            {
+                "label": "D",
+                "text": "提高塑性"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 82,
+        "question": "渗氮的工艺特点: 渗氮的典型工艺温度范围是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "150-300°C"
+            },
+            {
+                "label": "B",
+                "text": "400-550°C"
+            },
+            {
+                "label": "C",
+                "text": "800-950°C"
+            },
+            {
+                "label": "D",
+                "text": "1000-1200°C"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 83,
+        "question": "碳氮共渗的适用材料: 碳氮共渗最适用于哪类钢材？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "低碳钢和低合金钢"
+            },
+            {
+                "label": "B",
+                "text": "高碳钢"
+            },
+            {
+                "label": "C",
+                "text": "不锈钢"
+            },
+            {
+                "label": "D",
+                "text": "铸铁"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 84,
+        "question": "渗碳的典型应用: 渗碳处理最常用于以下哪类零件？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "精密仪器零件"
+            },
+            {
+                "label": "B",
+                "text": "高温合金部件"
+            },
+            {
+                "label": "C",
+                "text": "齿轮、轴承和凸轮"
+            },
+            {
+                "label": "D",
+                "text": "电器外壳"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 85,
+        "question": "渗氮的硬化层特性: 渗氮后材料表面的硬化层特征是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "硬化层深且韧性高"
+            },
+            {
+                "label": "B",
+                "text": "硬化层浅但硬度极高"
+            },
+            {
+                "label": "C",
+                "text": "硬化层深且塑性强"
+            },
+            {
+                "label": "D",
+                "text": "硬化层浅且导电性好"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 86,
+        "question": "碳氮共渗的适用场景: 碳氮共渗通常用于哪些零件的表面硬化？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "高温涡轮叶片"
+            },
+            {
+                "label": "B",
+                "text": "大型机械铸件"
+            },
+            {
+                "label": "C",
+                "text": "汽车变速箱齿轮和轴"
+            },
+            {
+                "label": "D",
+                "text": "锻造模具"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 87,
+        "question": "渗碳与渗氮的区别: 渗碳和渗氮的主要区别是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "渗碳改变表面化学成分，渗氮不改变"
+            },
+            {
+                "label": "B",
+                "text": "渗碳在高温下进行，渗氮在较低温度下进行"
+            },
+            {
+                "label": "C",
+                "text": "渗碳适用于高碳钢，渗氮适用于低碳钢"
+            },
+            {
+                "label": "D",
+                "text": "渗碳适合小零件，渗氮适合大零件"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 87,
+        "question": "激光表面淬火的效果: 激光表面淬火的主要效果是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "提高材料的塑性"
+            },
+            {
+                "label": "B",
+                "text": "增加材料表面的硬度和耐磨性"
+            },
+            {
+                "label": "C",
+                "text": "降低材料的导热性"
+            },
+            {
+                "label": "D",
+                "text": "提高材料的延展性"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 88,
+        "question": "激光合金化的原理: 激光合金化的主要原理是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "通过热扩散使合金元素渗入表层"
+            },
+            {
+                "label": "B",
+                "text": "通过化学反应生成保护层"
+            },
+            {
+                "label": "C",
+                "text": "通过冷却速度控制表面硬化"
+            },
+            {
+                "label": "D",
+                "text": "通过机械压力形成合金层"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 89,
+        "question": "激光表面淬火的热影响区: 激光表面淬火相对于传统表面淬火，其热影响区通常是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "更大"
+            },
+            {
+                "label": "B",
+                "text": "更小"
+            },
+            {
+                "label": "C",
+                "text": "相同"
+            },
+            {
+                "label": "D",
+                "text": "难以控制"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 90,
+        "question": "激光合金化的适用材料: 激光合金化最常用于提高以下哪类材料的表面性能？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "铝合金"
+            },
+            {
+                "label": "B",
+                "text": "铜合金"
+            },
+            {
+                "label": "C",
+                "text": "钢和钛合金"
+            },
+            {
+                "label": "D",
+                "text": "塑料"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 91,
+        "question": "激光表面淬火的应用领域: 激光表面淬火最常用于哪类零件的表面强化？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "塑料制品"
+            },
+            {
+                "label": "B",
+                "text": "需要高硬度和耐磨性的机械零件，如轴承、齿轮"
+            },
+            {
+                "label": "C",
+                "text": "电器外壳"
+            },
+            {
+                "label": "D",
+                "text": "精密仪器"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 91,
+        "question": "淬火硬度不足的原因: 钢材在淬火后硬度不足，最可能的原因是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "加热温度过高"
+            },
+            {
+                "label": "B",
+                "text": "冷却速度过慢"
+            },
+            {
+                "label": "C",
+                "text": "保温时间过长"
+            },
+            {
+                "label": "D",
+                "text": "退火不彻底"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 92,
+        "question": "软点的产生原因: 热处理后工件出现软点的主要原因是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "加热时间不足"
+            },
+            {
+                "label": "B",
+                "text": "冷却速度过快"
+            },
+            {
+                "label": "C",
+                "text": "表面脱碳或渗碳不足"
+            },
+            {
+                "label": "D",
+                "text": "过长的回火时间"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 93,
+        "question": "淬火裂纹的形成: 淬火过程中最容易产生裂纹的原因是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "回火不充分"
+            },
+            {
+                "label": "B",
+                "text": "冷却速度过快或不均匀"
+            },
+            {
+                "label": "C",
+                "text": "保温时间过短"
+            },
+            {
+                "label": "D",
+                "text": "加热温度过低"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 94,
+        "question": "淬火变形的原因: 工件在淬火后出现变形，最可能的原因是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "加热不均匀"
+            },
+            {
+                "label": "B",
+                "text": "回火温度过高"
+            },
+            {
+                "label": "C",
+                "text": "退火时间不足"
+            },
+            {
+                "label": "D",
+                "text": "低温保温时间过长"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 95,
+        "question": "表面脱碳的表现: 热处理后出现表面脱碳的工件，主要表现为：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "表面硬度降低"
+            },
+            {
+                "label": "B",
+                "text": "表面硬度增加"
+            },
+            {
+                "label": "C",
+                "text": "工件韧性增加"
+            },
+            {
+                "label": "D",
+                "text": "工件重量减少"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 96,
+        "question": "回火脆性原因: 钢材在高温回火后出现回火脆性，其主要原因是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "回火温度过低"
+            },
+            {
+                "label": "B",
+                "text": "材料中的杂质元素（如磷、锡）在晶界偏析"
+            },
+            {
+                "label": "C",
+                "text": "低温回火时间过长"
+            },
+            {
+                "label": "D",
+                "text": "保温时间不足"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 97,
+        "question": "过热的特征: 钢材在淬火时发生过热的主要特征是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "表面出现软点"
+            },
+            {
+                "label": "B",
+                "text": "晶粒粗大，硬度偏低"
+            },
+            {
+                "label": "C",
+                "text": "工件表面变形"
+            },
+            {
+                "label": "D",
+                "text": "淬透性提高"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 98,
+        "question": "高频淬火中的裂纹: 高频淬火后出现裂纹的常见原因是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "加热速度过慢"
+            },
+            {
+                "label": "B",
+                "text": "硬化层过浅"
+            },
+            {
+                "label": "C",
+                "text": "冷却速度过快且不均匀"
+            },
+            {
+                "label": "D",
+                "text": "保温时间过长"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 99,
+        "question": "回火软化的表现: 钢材在回火后硬度低于预期，可能的原因是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "回火温度过高或回火时间过长"
+            },
+            {
+                "label": "B",
+                "text": "加热速度太慢"
+            },
+            {
+                "label": "C",
+                "text": "淬火加热温度过高"
+            },
+            {
+                "label": "D",
+                "text": "保温时间过短"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 100,
+        "question": "脱碳的检测方法: 检测工件表面脱碳的常用方法是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "维氏硬度测试"
+            },
+            {
+                "label": "B",
+                "text": "金相显微镜观察"
+            },
+            {
+                "label": "C",
+                "text": "洛氏硬度测试"
+            },
+            {
+                "label": "D",
+                "text": "拉伸强度测试"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 101,
+        "question": "防止淬火裂纹的方法: 为了防止淬火时产生裂纹，最有效的措施是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "提高加热温度"
+            },
+            {
+                "label": "B",
+                "text": "采用分级淬火或等温淬火"
+            },
+            {
+                "label": "C",
+                "text": "缩短保温时间"
+            },
+            {
+                "label": "D",
+                "text": "提高回火温度"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 102,
+        "question": "减少淬火变形的措施: 为了减少淬火变形，可以采取的措施是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "加快冷却速度"
+            },
+            {
+                "label": "B",
+                "text": "采用对称加热和冷却"
+            },
+            {
+                "label": "C",
+                "text": "提高保温温度"
+            },
+            {
+                "label": "D",
+                "text": "采用高温回火"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 103,
+        "question": "避免回火脆性的方法: 为了避免回火脆性，应采取以下哪种措施？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "快速加热并快速冷却"
+            },
+            {
+                "label": "B",
+                "text": "延长回火时间"
+            },
+            {
+                "label": "C",
+                "text": "降低淬火温度"
+            },
+            {
+                "label": "D",
+                "text": "采用多次淬火"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 104,
+        "question": "防止表面脱碳的方法: 在热处理过程中，为了防止表面脱碳，可以采取的措施是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "提高加热速度"
+            },
+            {
+                "label": "B",
+                "text": "在加热过程中使用保护气氛或涂料"
+            },
+            {
+                "label": "C",
+                "text": "延长冷却时间"
+            },
+            {
+                "label": "D",
+                "text": "提高冷却速度"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 105,
+        "question": "提高硬度不足的工艺调整: 如果淬火后工件硬度不足，可以通过以下哪种方法来调整工艺？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "降低加热温度"
+            },
+            {
+                "label": "B",
+                "text": "缩短保温时间"
+            },
+            {
+                "label": "C",
+                "text": "提高加热温度或加快冷却速度"
+            },
+            {
+                "label": "D",
+                "text": "延长回火时间"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 106,
+        "question": "减少淬火硬度不足的措施: 为了防止淬火硬度不足，可以采取以下哪种措施？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "延长回火时间"
+            },
+            {
+                "label": "B",
+                "text": "提高加热温度或缩短加热时间"
+            },
+            {
+                "label": "C",
+                "text": "采用更快的冷却介质"
+            },
+            {
+                "label": "D",
+                "text": "降低淬火加热温度"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 107,
+        "question": "降低淬火变形的工艺选择: 为了减少淬火过程中的变形，最适合采用的冷却方式是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "分级淬火或等温淬火"
+            },
+            {
+                "label": "B",
+                "text": "油冷却"
+            },
+            {
+                "label": "C",
+                "text": "盐水淬火"
+            },
+            {
+                "label": "D",
+                "text": "空气冷却"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 108,
+        "question": "预防高频淬火裂纹的方法: 在高频淬火中，为了预防裂纹，应采取以下哪种方法？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "提高加热速度"
+            },
+            {
+                "label": "B",
+                "text": "使用油作为冷却介质"
+            },
+            {
+                "label": "C",
+                "text": "控制加热深度，减少硬化层厚度"
+            },
+            {
+                "label": "D",
+                "text": "增加保温时间"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 109,
+        "question": "减少回火软化的措施: 为了减少回火后硬度下降过大的问题，可以采取的措施是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "缩短回火时间"
+            },
+            {
+                "label": "B",
+                "text": "降低回火温度"
+            },
+            {
+                "label": "C",
+                "text": "提高加热速度"
+            },
+            {
+                "label": "D",
+                "text": "增加淬火温度"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 110,
+        "question": "避免渗碳层脱碳的方法: 为了在渗碳过程中避免表面脱碳，最有效的措施是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "降低加热温度"
+            },
+            {
+                "label": "B",
+                "text": "使用保护气氛或适当的气氛调节"
+            },
+            {
+                "label": "C",
+                "text": "缩短保温时间"
+            },
+            {
+                "label": "D",
+                "text": "提高冷却速度"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 111,
+        "question": "提高淬透性的方法: 如果钢材在淬火过程中表现出淬透性不足，应采取的措施是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "提高淬火加热温度"
+            },
+            {
+                "label": "B",
+                "text": "增加合金元素或采用水淬"
+            },
+            {
+                "label": "C",
+                "text": "减少冷却速度"
+            },
+            {
+                "label": "D",
+                "text": "使用高温回火"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 112,
+        "question": "预防过热的措施: 为了防止钢材在淬火时过热，最有效的措施是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "控制加热温度在Ac3点以上30-50°C"
+            },
+            {
+                "label": "B",
+                "text": "增加冷却速度"
+            },
+            {
+                "label": "C",
+                "text": "延长保温时间"
+            },
+            {
+                "label": "D",
+                "text": "使用低温加热"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 113,
+        "question": "防止表面软点的措施: 如果热处理后表面出现软点，可能的解决方法是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "提高加热温度"
+            },
+            {
+                "label": "B",
+                "text": "改用更快的冷却介质"
+            },
+            {
+                "label": "C",
+                "text": "增加保温时间或减少表面脱碳"
+            },
+            {
+                "label": "D",
+                "text": "缩短冷却时间"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 114,
+        "question": "预防回火脆性的方法: 为了防止回火脆性，应采用的工艺措施是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "高温快速加热，快速冷却"
+            },
+            {
+                "label": "B",
+                "text": "缓慢加热，慢速冷却"
+            },
+            {
+                "label": "C",
+                "text": "延长回火时间"
+            },
+            {
+                "label": "D",
+                "text": "增加淬火温度"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 115,
+        "question": "提高耐磨性的热处理优化: 为了提高工件表面的耐磨性，可以采取的工艺措施是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "淬火+高温回火"
+            },
+            {
+                "label": "B",
+                "text": "渗碳淬火+低温回火"
+            },
+            {
+                "label": "C",
+                "text": "退火+正火"
+            },
+            {
+                "label": "D",
+                "text": "低温淬火+高温回火"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 116,
+        "question": "奥氏体的金相特征: 奥氏体在显微镜下的主要特征是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "层状结构"
+            },
+            {
+                "label": "B",
+                "text": "细长的针状结构"
+            },
+            {
+                "label": "C",
+                "text": "等轴的多边形晶粒结构"
+            },
+            {
+                "label": "D",
+                "text": "球状颗粒结构"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 117,
+        "question": "珠光体的显微组织: 珠光体在金相显微镜下通常呈现为：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "片状或层状结构"
+            },
+            {
+                "label": "B",
+                "text": "球状颗粒结构"
+            },
+            {
+                "label": "C",
+                "text": "长条状结构"
+            },
+            {
+                "label": "D",
+                "text": "细小针状结构"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 118,
+        "question": "马氏体的显微组织: 马氏体在显微镜下通常表现为：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "粗大颗粒状"
+            },
+            {
+                "label": "B",
+                "text": "层状结构"
+            },
+            {
+                "label": "C",
+                "text": "细长的针状或板条状结构"
+            },
+            {
+                "label": "D",
+                "text": "等轴晶粒结构"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 119,
+        "question": "回火屈氏体的显微组织: 回火屈氏体的显微组织主要表现为：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "片层状珠光体"
+            },
+            {
+                "label": "B",
+                "text": "球状渗碳体和铁素体的混合结构"
+            },
+            {
+                "label": "C",
+                "text": "细长的针状马氏体"
+            },
+            {
+                "label": "D",
+                "text": "等轴奥氏体晶粒"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 120,
+        "question": "贝氏体的金相特征: 下贝氏体在金相显微镜下通常呈现为：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "等轴晶粒"
+            },
+            {
+                "label": "B",
+                "text": "粗大针状结构"
+            },
+            {
+                "label": "C",
+                "text": "非常细小的针状结构"
+            },
+            {
+                "label": "D",
+                "text": "片层状结构"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 121,
+        "question": "渗碳体的显微组织: 渗碳体在显微镜下的主要表现是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "层状结构"
+            },
+            {
+                "label": "B",
+                "text": "球状颗粒"
+            },
+            {
+                "label": "C",
+                "text": "片状结构"
+            },
+            {
+                "label": "D",
+                "text": "针状结构"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 122,
+        "question": "索氏体的显微组织: 索氏体在显微镜下的主要特征是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "片状珠光体"
+            },
+            {
+                "label": "B",
+                "text": "细片状或细针状结构"
+            },
+            {
+                "label": "C",
+                "text": "球状颗粒"
+            },
+            {
+                "label": "D",
+                "text": "等轴晶粒"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 123,
+        "question": "过热组织的特征: 在显微分析中，钢材过热后常见的显微特征是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "等轴的奥氏体晶粒"
+            },
+            {
+                "label": "B",
+                "text": "晶粒明显粗大"
+            },
+            {
+                "label": "C",
+                "text": "微小的渗碳体颗粒"
+            },
+            {
+                "label": "D",
+                "text": "细小的针状马氏体"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 124,
+        "question": "淬火裂纹的显微组织特征: 在显微镜下观察到的淬火裂纹通常表现为：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "层状结构"
+            },
+            {
+                "label": "B",
+                "text": "深色的细小裂纹"
+            },
+            {
+                "label": "C",
+                "text": "球状颗粒"
+            },
+            {
+                "label": "D",
+                "text": "片层状珠光体"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 125,
+        "question": "回火马氏体的金相显微组织: 回火马氏体在显微镜下的表现为：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "细长针状结构"
+            },
+            {
+                "label": "B",
+                "text": "片层状结构"
+            },
+            {
+                "label": "C",
+                "text": "弥散分布的渗碳体和铁素体"
+            },
+            {
+                "label": "D",
+                "text": "等轴晶粒结构"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 125,
+        "question": "布氏硬度测试适用的场景: 布氏硬度测试主要适用于：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "精密小零件的表面硬度检测"
+            },
+            {
+                "label": "B",
+                "text": "大型零件或较软材料的硬度检测"
+            },
+            {
+                "label": "C",
+                "text": "薄片材料的硬度测试"
+            },
+            {
+                "label": "D",
+                "text": "硬化层的深度检测"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 126,
+        "question": "洛氏硬度测试的特点: 洛氏硬度测试的主要优点是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "精度高，但操作复杂"
+            },
+            {
+                "label": "B",
+                "text": "操作简单、速度快，适合生产现场检测"
+            },
+            {
+                "label": "C",
+                "text": "仅适用于高碳钢"
+            },
+            {
+                "label": "D",
+                "text": "仅适用于高温合金"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 127,
+        "question": "显微硬度测试的应用: 显微硬度测试（如维氏硬度）最适合用于：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "大型结构件的整体硬度测量"
+            },
+            {
+                "label": "B",
+                "text": "薄层或局部区域的硬度测量"
+            },
+            {
+                "label": "C",
+                "text": "铸铁件的整体强度测量"
+            },
+            {
+                "label": "D",
+                "text": "热处理后的韧性检测"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 128,
+        "question": "显微组织分析在缺陷检测中的应用: 通过显微组织分析可以检测的缺陷是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "表面粗糙度"
+            },
+            {
+                "label": "B",
+                "text": "晶粒粗大、脱碳层和淬火裂纹"
+            },
+            {
+                "label": "C",
+                "text": "内部气孔和缩孔"
+            },
+            {
+                "label": "D",
+                "text": "材料的延展性"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 129,
+        "question": "硬度不足的检测方法: 若在热处理后发现硬度不足，首先应进行的检测方法是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "金相显微分析"
+            },
+            {
+                "label": "B",
+                "text": "拉伸强度测试"
+            },
+            {
+                "label": "C",
+                "text": "硬度测试"
+            },
+            {
+                "label": "D",
+                "text": "化学成分分析"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 130,
+        "question": "硬度测试在缺陷分析中的作用: 硬度测试在缺陷分析中的主要作用是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "评估材料的延展性"
+            },
+            {
+                "label": "B",
+                "text": "确定表面和内部硬化程度"
+            },
+            {
+                "label": "C",
+                "text": "提高材料的耐磨性"
+            },
+            {
+                "label": "D",
+                "text": "评估材料的塑性"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 131,
+        "question": "显微组织分析的显微镜选择: 进行金相显微组织分析时，一般采用的显微镜是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "电子显微镜"
+            },
+            {
+                "label": "B",
+                "text": "光学显微镜"
+            },
+            {
+                "label": "C",
+                "text": "X射线显微镜"
+            },
+            {
+                "label": "D",
+                "text": "扫描隧道显微镜"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 132,
+        "question": "检测淬火裂纹的方法: 检测淬火裂纹的常用方法是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "硬度测试"
+            },
+            {
+                "label": "B",
+                "text": "金相显微镜观察"
+            },
+            {
+                "label": "C",
+                "text": "化学分析"
+            },
+            {
+                "label": "D",
+                "text": "拉伸试验"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 133,
+        "question": "表面脱碳层的检测: 检测表面脱碳层的常用方法是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "洛氏硬度测试"
+            },
+            {
+                "label": "B",
+                "text": "显微硬度测试和金相显微组织分析"
+            },
+            {
+                "label": "C",
+                "text": "扫描电镜"
+            },
+            {
+                "label": "D",
+                "text": "拉伸测试"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 134,
+        "question": "硬度测试适用的材料类型: 下列哪种材料不适合进行布氏硬度测试？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "低碳钢"
+            },
+            {
+                "label": "B",
+                "text": "高碳钢"
+            },
+            {
+                "label": "C",
+                "text": "硬质合金"
+            },
+            {
+                "label": "D",
+                "text": "铸铁"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 134,
+        "question": "合金元素对淬透性的影响: 在合金钢中，以下哪种合金元素对提高淬透性起到最明显的作用？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "硅"
+            },
+            {
+                "label": "B",
+                "text": "铬"
+            },
+            {
+                "label": "C",
+                "text": "硫"
+            },
+            {
+                "label": "D",
+                "text": "磷"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 135,
+        "question": "低碳钢的相变控制: 在低碳钢的渗碳处理中，为了在表面形成细针状马氏体而不影响心部的韧性，应该采取的工艺措施是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "提高渗碳温度，缩短保温时间"
+            },
+            {
+                "label": "B",
+                "text": "采用多次回火工艺"
+            },
+            {
+                "label": "C",
+                "text": "控制渗碳后的快速冷却并使用低温回火"
+            },
+            {
+                "label": "D",
+                "text": "降低淬火温度"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 136,
+        "question": "中碳钢的调质优化: 在调质处理中，为了使中碳钢既具备高强度，又保持一定韧性，最佳的回火温度范围通常是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "150-200°C"
+            },
+            {
+                "label": "B",
+                "text": "300-400°C"
+            },
+            {
+                "label": "C",
+                "text": "500-600°C"
+            },
+            {
+                "label": "D",
+                "text": "650-750°C"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 137,
+        "question": "高碳钢的二次硬化: 高碳钢经过适当热处理后，可以表现出二次硬化现象，这种现象的主要原因是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "马氏体析出"
+            },
+            {
+                "label": "B",
+                "text": "奥氏体稳定性增加"
+            },
+            {
+                "label": "C",
+                "text": "合金碳化物的析出"
+            },
+            {
+                "label": "D",
+                "text": "晶粒细化"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 138,
+        "question": "不同碳含量对钢材性能的影响: 钢材的碳含量对其强度和韧性的影响中，以下描述最准确的是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "碳含量越高，韧性和强度均增加"
+            },
+            {
+                "label": "B",
+                "text": "碳含量越高，韧性降低而强度增加"
+            },
+            {
+                "label": "C",
+                "text": "碳含量越低，强度和韧性均增加"
+            },
+            {
+                "label": "D",
+                "text": "碳含量对强度无显著影响"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 139,
+        "question": "合金元素对高温性能的影响: 合金钢中添加钼和钒的主要作用是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "提高材料的塑性"
+            },
+            {
+                "label": "B",
+                "text": "提高材料的高温强度和耐蠕变性能"
+            },
+            {
+                "label": "C",
+                "text": "降低淬透性"
+            },
+            {
+                "label": "D",
+                "text": "提高导电性"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 140,
+        "question": "渗碳合金钢的组织控制: 在渗碳合金钢的热处理中，为了获得优异的耐磨性和韧性，最佳的工艺方案是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "渗碳后直接淬火+高温回火"
+            },
+            {
+                "label": "B",
+                "text": "渗碳后缓冷+低温回火"
+            },
+            {
+                "label": "C",
+                "text": "渗碳后分级淬火+中温回火"
+            },
+            {
+                "label": "D",
+                "text": "渗碳后多次回火"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 141,
+        "question": "中碳钢的淬透性调控: 在中碳钢中，增加淬透性的最有效手段是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "增加加热温度"
+            },
+            {
+                "label": "B",
+                "text": "增加合金元素含量，如锰、铬"
+            },
+            {
+                "label": "C",
+                "text": "采用快速冷却介质"
+            },
+            {
+                "label": "D",
+                "text": "延长保温时间"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 142,
+        "question": "高碳钢的表面处理: 对高碳钢零件进行表面淬火的最佳目的是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "提高整个零件的硬度"
+            },
+            {
+                "label": "B",
+                "text": "增加心部强度"
+            },
+            {
+                "label": "C",
+                "text": "提高表面耐磨性，同时保持心部韧性"
+            },
+            {
+                "label": "D",
+                "text": "增加零件的塑性"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 143,
+        "question": "碳钢的碳氮共渗处理: 对低碳钢进行碳氮共渗处理的主要优点是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "仅提高表面硬度"
+            },
+            {
+                "label": "B",
+                "text": "仅提高耐腐蚀性"
+            },
+            {
+                "label": "C",
+                "text": "同时提高表面硬度和耐腐蚀性"
+            },
+            {
+                "label": "D",
+                "text": "提高高温强度"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 143,
+        "question": "固溶强化的原理: 固溶强化的主要原理是通过什么方式来提高材料的强度？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "增加晶粒尺寸"
+            },
+            {
+                "label": "B",
+                "text": "在基体中溶解合金元素形成固溶体"
+            },
+            {
+                "label": "C",
+                "text": "生成合金碳化物"
+            },
+            {
+                "label": "D",
+                "text": "增加材料的延展性"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 144,
+        "question": "析出强化的效果: 析出强化在合金材料中的主要作用是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "提高韧性"
+            },
+            {
+                "label": "B",
+                "text": "通过在基体中析出第二相颗粒，提高材料强度和硬度"
+            },
+            {
+                "label": "C",
+                "text": "降低材料的硬度"
+            },
+            {
+                "label": "D",
+                "text": "提高材料的塑性"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 145,
+        "question": "粒界强化的机制: 粒界强化的主要机制是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "细化晶粒以增加晶界面积，阻止位错运动"
+            },
+            {
+                "label": "B",
+                "text": "增加晶粒尺寸，提高硬度"
+            },
+            {
+                "label": "C",
+                "text": "增加材料的导电性"
+            },
+            {
+                "label": "D",
+                "text": "减少合金元素的含量"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 146,
+        "question": "析出强化对高温性能的影响: 析出强化在高温合金中的主要作用是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "降低材料的蠕变强度"
+            },
+            {
+                "label": "B",
+                "text": "增加高温强度和抗蠕变性能"
+            },
+            {
+                "label": "C",
+                "text": "提高材料的塑性"
+            },
+            {
+                "label": "D",
+                "text": "增加材料的导电性"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 147,
+        "question": "固溶处理的适用材料: 固溶处理最适用于下列哪类合金？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "高碳钢"
+            },
+            {
+                "label": "B",
+                "text": "铝合金和不锈钢"
+            },
+            {
+                "label": "C",
+                "text": "铸铁"
+            },
+            {
+                "label": "D",
+                "text": "中碳钢"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 148,
+        "question": "析出强化的温度控制: 析出强化工艺中，控制析出过程的关键是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "快速冷却"
+            },
+            {
+                "label": "B",
+                "text": "精确控制温度和保温时间"
+            },
+            {
+                "label": "C",
+                "text": "延长保温时间"
+            },
+            {
+                "label": "D",
+                "text": "提高加热温度"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 149,
+        "question": "粒界强化对断裂韧性的影响: 通过细化晶粒实现粒界强化对材料断裂韧性的影响是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "降低断裂韧性"
+            },
+            {
+                "label": "B",
+                "text": "提高断裂韧性"
+            },
+            {
+                "label": "C",
+                "text": "提高塑性"
+            },
+            {
+                "label": "D",
+                "text": "提高导热性"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 150,
+        "question": "固溶强化对不锈钢性能的提升: 不锈钢在固溶强化处理后，最主要的性能提升是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "提高塑性"
+            },
+            {
+                "label": "B",
+                "text": "提高耐蚀性和强度"
+            },
+            {
+                "label": "C",
+                "text": "降低硬度"
+            },
+            {
+                "label": "D",
+                "text": "提高导电性"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 151,
+        "question": "析出强化的二次硬化现象: 在高合金钢中，析出强化可导致二次硬化现象，这种现象的主要原因是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "晶粒细化"
+            },
+            {
+                "label": "B",
+                "text": "第二相碳化物的析出"
+            },
+            {
+                "label": "C",
+                "text": "合金元素的固溶"
+            },
+            {
+                "label": "D",
+                "text": "晶界强化"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 152,
+        "question": "粒界强化在低碳钢中的应用: 粒界强化在低碳钢中的应用主要通过以下哪种方式实现？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "快速冷却"
+            },
+            {
+                "label": "B",
+                "text": "热轧后进行正火处理"
+            },
+            {
+                "label": "C",
+                "text": "增加合金元素含量"
+            },
+            {
+                "label": "D",
+                "text": "高温回火"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 152,
+        "question": "生产调度的关键因素: 在制定热处理生产调度计划时，最关键的考虑因素是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "工人的技能水平"
+            },
+            {
+                "label": "B",
+                "text": "设备的可用性和产能"
+            },
+            {
+                "label": "C",
+                "text": "车间的照明条件"
+            },
+            {
+                "label": "D",
+                "text": "生产线的颜色"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 153,
+        "question": "生产效率的提升方法: 为了提高热处理车间的生产效率，可以采取的最有效措施是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "提高原材料库存"
+            },
+            {
+                "label": "B",
+                "text": "采用自动化控制和过程优化"
+            },
+            {
+                "label": "C",
+                "text": "增加工人数量"
+            },
+            {
+                "label": "D",
+                "text": "减少设备的维护频率"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 154,
+        "question": "平衡生产负荷的策略: 为了实现车间负荷平衡，应采用的生产调度策略是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "按照工件大小排序生产"
+            },
+            {
+                "label": "B",
+                "text": "采用混合生产模式，优化设备使用率"
+            },
+            {
+                "label": "C",
+                "text": "固定设备的使用顺序"
+            },
+            {
+                "label": "D",
+                "text": "按订单优先级排列"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 155,
+        "question": "生产瓶颈的识别与解决: 在热处理生产中，识别和解决瓶颈的主要方法是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "提高所有设备的运行速度"
+            },
+            {
+                "label": "B",
+                "text": "增加工人班次"
+            },
+            {
+                "label": "C",
+                "text": "进行瓶颈工序的分析和优化，确保工序平衡"
+            },
+            {
+                "label": "D",
+                "text": "缩短保温时间"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 156,
+        "question": "设备利用率的提升: 提高热处理设备利用率的最有效方法是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "减少设备的维护时间"
+            },
+            {
+                "label": "B",
+                "text": "合理安排生产调度，减少设备空闲时间"
+            },
+            {
+                "label": "C",
+                "text": "提高工人的劳动强度"
+            },
+            {
+                "label": "D",
+                "text": "增加设备的数量"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 157,
+        "question": "生产调度的优化: 生产调度优化的主要目标是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "最大化设备利用率，最小化等待时间和生产周期"
+            },
+            {
+                "label": "B",
+                "text": "提高工人工作量"
+            },
+            {
+                "label": "C",
+                "text": "提高原材料的库存"
+            },
+            {
+                "label": "D",
+                "text": "增加订单数量"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 158,
+        "question": "快速换模的实施: 在热处理生产中，实施快速换模（SMED）技术的主要目的是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "提高产品质量"
+            },
+            {
+                "label": "B",
+                "text": "缩短设备调整时间，提高生产灵活性"
+            },
+            {
+                "label": "C",
+                "text": "增加设备的维护时间"
+            },
+            {
+                "label": "D",
+                "text": "提高工人的休息时间"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 159,
+        "question": "生产计划的动态调整: 当生产订单发生变化时，生产调度应采取的策略是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "按照原计划继续生产"
+            },
+            {
+                "label": "B",
+                "text": "动态调整生产计划，优化资源配置"
+            },
+            {
+                "label": "C",
+                "text": "暂停生产，等待新计划"
+            },
+            {
+                "label": "D",
+                "text": "延长设备的运行时间"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 160,
+        "question": "提升热处理工艺的稳定性: 提高热处理工艺稳定性的关键措施是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "增加设备运行的速度"
+            },
+            {
+                "label": "B",
+                "text": "标准化操作流程和加强过程控制"
+            },
+            {
+                "label": "C",
+                "text": "减少设备的使用"
+            },
+            {
+                "label": "D",
+                "text": "降低生产效率"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 161,
+        "question": "生产调度中的瓶颈缓解策略: 为了缓解生产调度中的瓶颈，可以采取的策略是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "增加瓶颈工序的设备和人员"
+            },
+            {
+                "label": "B",
+                "text": "延长所有工序的生产时间"
+            },
+            {
+                "label": "C",
+                "text": "降低非瓶颈工序的生产速度"
+            },
+            {
+                "label": "D",
+                "text": "缩短保温时间"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 162,
+        "question": "设备的预防性维护: 热处理设备预防性维护的主要目的是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "增加设备的负荷"
+            },
+            {
+                "label": "B",
+                "text": "提高设备的利用率，减少意外停机"
+            },
+            {
+                "label": "C",
+                "text": "降低维护成本"
+            },
+            {
+                "label": "D",
+                "text": "提高工人的劳动强度"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 163,
+        "question": "设备润滑的重要性: 在热处理设备的维护中，设备润滑的主要作用是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "提高设备运行速度"
+            },
+            {
+                "label": "B",
+                "text": "减少设备摩擦和磨损，延长使用寿命"
+            },
+            {
+                "label": "C",
+                "text": "增加设备的负荷能力"
+            },
+            {
+                "label": "D",
+                "text": "改善设备的外观"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 164,
+        "question": "温控系统的故障排查: 当热处理设备的温控系统出现故障时，最先应该检查的是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "控制柜的电源连接"
+            },
+            {
+                "label": "B",
+                "text": "设备的冷却系统"
+            },
+            {
+                "label": "C",
+                "text": "设备的润滑情况"
+            },
+            {
+                "label": "D",
+                "text": "工人的操作流程"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 165,
+        "question": "热处理炉的定期校准: 热处理炉的定期校准主要是为了：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "提高生产效率"
+            },
+            {
+                "label": "B",
+                "text": "确保炉温的准确性和工艺的稳定性"
+            },
+            {
+                "label": "C",
+                "text": "增加工人的工作量"
+            },
+            {
+                "label": "D",
+                "text": "提高炉体的使用寿命"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 166,
+        "question": "冷却系统的维护: 热处理设备冷却系统的维护重点是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "清理冷却水中的杂质，防止堵塞"
+            },
+            {
+                "label": "B",
+                "text": "提高冷却水的流速"
+            },
+            {
+                "label": "C",
+                "text": "增加冷却时间"
+            },
+            {
+                "label": "D",
+                "text": "降低冷却介质的温度"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 167,
+        "question": "设备的电气故障排查: 设备在运行中突然断电，最可能的原因是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "冷却系统堵塞"
+            },
+            {
+                "label": "B",
+                "text": "电路过载或短路"
+            },
+            {
+                "label": "C",
+                "text": "润滑不充分"
+            },
+            {
+                "label": "D",
+                "text": "工件过重"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 168,
+        "question": "炉体保温材料的检查: 炉体保温材料的日常检查重点是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "材料的导电性"
+            },
+            {
+                "label": "B",
+                "text": "是否存在裂缝、脱落或老化"
+            },
+            {
+                "label": "C",
+                "text": "材料的颜色"
+            },
+            {
+                "label": "D",
+                "text": "保温材料的硬度"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 169,
+        "question": "设备的紧急停机措施: 当热处理设备发生严重故障时，应首先采取的措施是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "继续运行，直到完成当前工序"
+            },
+            {
+                "label": "B",
+                "text": "立即按下紧急停机按钮，断开电源"
+            },
+            {
+                "label": "C",
+                "text": "等待上级指示"
+            },
+            {
+                "label": "D",
+                "text": "增加冷却介质"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 170,
+        "question": "传动系统的维护: 热处理设备的传动系统应如何进行日常维护？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "定期润滑，检查皮带或链条的张力"
+            },
+            {
+                "label": "B",
+                "text": "增加负荷运行"
+            },
+            {
+                "label": "C",
+                "text": "降低运行速度"
+            },
+            {
+                "label": "D",
+                "text": "仅在故障时维修"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 171,
+        "question": "加热元件的定期更换: 加热元件需要定期更换的原因是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "提高生产效率"
+            },
+            {
+                "label": "B",
+                "text": "防止加热不均匀或加热不足"
+            },
+            {
+                "label": "C",
+                "text": "降低设备的运行温度"
+            },
+            {
+                "label": "D",
+                "text": "提高设备的外观"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 172,
+        "question": "高温操作的安全规范: 在进行高温热处理操作时，工人应佩戴的防护装备包括：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "防静电鞋"
+            },
+            {
+                "label": "B",
+                "text": "隔热手套、防护眼镜和防护服"
+            },
+            {
+                "label": "C",
+                "text": "防雨服"
+            },
+            {
+                "label": "D",
+                "text": "防辐射护目镜"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 173,
+        "question": "应急停机的处理: 当热处理设备发生紧急情况时，操作工应首先采取的措施是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "继续操作，完成当前工序"
+            },
+            {
+                "label": "B",
+                "text": "按下紧急停机按钮并切断电源"
+            },
+            {
+                "label": "C",
+                "text": "打开炉门查看情况"
+            },
+            {
+                "label": "D",
+                "text": "等待主管指示"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 174,
+        "question": "防止爆炸的措施: 在淬火油槽旁进行淬火操作时，为了防止油雾爆炸，工人应：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "加快淬火速度"
+            },
+            {
+                "label": "B",
+                "text": "维持良好的通风，并确保油温不超过安全范围"
+            },
+            {
+                "label": "C",
+                "text": "延长加热时间"
+            },
+            {
+                "label": "D",
+                "text": "增加淬火油的数量"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 175,
+        "question": "防护设备的日常检查: 为确保安全操作，防护设备（如灭火器、护目镜等）的检查频率应为：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "每季度一次"
+            },
+            {
+                "label": "B",
+                "text": "每年一次"
+            },
+            {
+                "label": "C",
+                "text": "每月一次"
+            },
+            {
+                "label": "D",
+                "text": "每班次一次"
+            }
+        ],
+        "rightanswer": "D"
+    },
+    {
+        "id": 176,
+        "question": "危险气体泄漏的应对: 在热处理过程中，如果检测到危险气体泄漏，操作工应首先：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "立即离开现场并启动通风系统"
+            },
+            {
+                "label": "B",
+                "text": "继续工作，等待指示"
+            },
+            {
+                "label": "C",
+                "text": "增加设备的负荷"
+            },
+            {
+                "label": "D",
+                "text": "调整加热温度"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 177,
+        "question": "炉体故障的风险: 如果热处理炉体出现裂缝或其他结构性损坏，最正确的处理方法是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "立即停机，并通知维修人员进行检查和维修"
+            },
+            {
+                "label": "B",
+                "text": "继续使用，直至生产完成"
+            },
+            {
+                "label": "C",
+                "text": "通过增加冷却水流量进行补救"
+            },
+            {
+                "label": "D",
+                "text": "用临时材料封堵裂缝"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 178,
+        "question": "化学品的安全使用: 在使用渗碳剂或渗氮剂时，操作工需要注意的安全事项包括：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "加快材料加热速度"
+            },
+            {
+                "label": "B",
+                "text": "确保工作区域的通风，并佩戴呼吸防护装备"
+            },
+            {
+                "label": "C",
+                "text": "增加化学品的使用量"
+            },
+            {
+                "label": "D",
+                "text": "调高炉温"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 179,
+        "question": "电气安全的风险防范: 在热处理车间进行电气设备维护时，应采取的主要安全措施是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "在设备运行时进行检查"
+            },
+            {
+                "label": "B",
+                "text": "关闭电源并进行锁定和挂牌"
+            },
+            {
+                "label": "C",
+                "text": "增加设备负荷进行测试"
+            },
+            {
+                "label": "D",
+                "text": "仅凭视觉检查设备状态"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 180,
+        "question": "淬火过程中的火灾风险: 淬火时，如果油槽起火，操作工应采取的措施是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "用水扑灭火焰"
+            },
+            {
+                "label": "B",
+                "text": "立即使用干粉灭火器灭火"
+            },
+            {
+                "label": "C",
+                "text": "打开油槽盖加速冷却"
+            },
+            {
+                "label": "D",
+                "text": "增加油量降温"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 181,
+        "question": "高温炉门的安全操作: 在打开高温热处理炉的炉门时，应注意的最重要安全事项是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "快速打开炉门，减少热量损失"
+            },
+            {
+                "label": "B",
+                "text": "佩戴防护面罩，防止高温气体和辐射热对人体的伤害"
+            },
+            {
+                "label": "C",
+                "text": "站在炉门正前方观察"
+            },
+            {
+                "label": "D",
+                "text": "立即接触工件表面"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 181,
+        "question": "晶体结构对材料性能的影响: 钢在奥氏体状态（面心立方结构）下的特点是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "高塑性和高韧性，但较低的硬度和强度"
+            },
+            {
+                "label": "B",
+                "text": "高硬度和高强度，但低延展性"
+            },
+            {
+                "label": "C",
+                "text": "易于发生脆性断裂"
+            },
+            {
+                "label": "D",
+                "text": "导电性能显著提升"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 182,
+        "question": "不同位错对材料变形的影响: 在金属材料中，螺位错和刃位错对材料变形的影响分别是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "螺位错促进塑性变形，刃位错限制塑性变形"
+            },
+            {
+                "label": "B",
+                "text": "刃位错促进塑性变形，螺位错引发脆性断裂"
+            },
+            {
+                "label": "C",
+                "text": "螺位错和刃位错均通过滑移促进塑性变形"
+            },
+            {
+                "label": "D",
+                "text": "螺位错促进硬度提升，刃位错降低强度"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 183,
+        "question": "晶粒细化对强度的影响: 晶粒细化提高金属强度的原理主要是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "增加晶界数量，阻碍位错的运动"
+            },
+            {
+                "label": "B",
+                "text": "通过减少晶界面积，增加塑性变形能力"
+            },
+            {
+                "label": "C",
+                "text": "增加位错密度，从而提高导热性"
+            },
+            {
+                "label": "D",
+                "text": "降低材料的韧性和延展性"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 184,
+        "question": "亚晶界在金属中的作用: 亚晶界在金属材料中的主要作用是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "提高材料的电导率"
+            },
+            {
+                "label": "B",
+                "text": "提供位错的攀移通道，提高材料的高温性能"
+            },
+            {
+                "label": "C",
+                "text": "促进裂纹的扩展"
+            },
+            {
+                "label": "D",
+                "text": "降低金属的硬度"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 185,
+        "question": "析出强化的过程控制: 在析出强化过程中，析出相的尺寸、形状和分布对材料性能的影响是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "颗粒越大，强化效果越好"
+            },
+            {
+                "label": "B",
+                "text": "颗粒分布越均匀，材料的强度和韧性越高"
+            },
+            {
+                "label": "C",
+                "text": "颗粒尺寸不影响材料性能"
+            },
+            {
+                "label": "D",
+                "text": "颗粒越小，材料的塑性越低"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 186,
+        "question": "晶体结构的转变对性能的影响: 在高温下，铁的晶体结构由体心立方（BCC）转变为面心立方（FCC），这种转变对钢的性能影响是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "降低塑性和延展性"
+            },
+            {
+                "label": "B",
+                "text": "提高钢的硬度"
+            },
+            {
+                "label": "C",
+                "text": "提高钢的塑性和延展性"
+            },
+            {
+                "label": "D",
+                "text": "增加钢的脆性"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 187,
+        "question": "位错交滑移的强化机制: 位错交滑移的出现通常会导致：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "材料的强度增加，因为位错的滑移受到限制"
+            },
+            {
+                "label": "B",
+                "text": "材料的塑性提高，因为位错可以自由滑移"
+            },
+            {
+                "label": "C",
+                "text": "材料的硬度下降，因为位错密度降低"
+            },
+            {
+                "label": "D",
+                "text": "材料的导电性能显著提升"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 188,
+        "question": "碳在铁中的溶解行为: 碳在奥氏体中的溶解度远高于铁素体中的溶解度，这一现象的主要原因是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "面心立方结构的晶格间隙更大"
+            },
+            {
+                "label": "B",
+                "text": "体心立方结构的晶格间隙更大"
+            },
+            {
+                "label": "C",
+                "text": "奥氏体比铁素体更稳定"
+            },
+            {
+                "label": "D",
+                "text": "奥氏体具有更高的强度"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 189,
+        "question": "孪晶的强化作用: 孪晶在金属材料中的强化作用主要体现在：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "提高位错密度，增加塑性"
+            },
+            {
+                "label": "B",
+                "text": "阻碍位错的运动，提高材料的强度"
+            },
+            {
+                "label": "C",
+                "text": "增加晶粒尺寸，降低硬度"
+            },
+            {
+                "label": "D",
+                "text": "提高材料的导热性能"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 190,
+        "question": "动态再结晶对材料的影响: 动态再结晶在热加工过程中对金属性能的主要影响是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "增加晶粒尺寸，提高硬度"
+            },
+            {
+                "label": "B",
+                "text": "细化晶粒，提高韧性和延展性"
+            },
+            {
+                "label": "C",
+                "text": "降低位错密度，降低强度"
+            },
+            {
+                "label": "D",
+                "text": "提高导电性"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 191,
+        "question": "铁素体的晶体结构: 铁素体的晶体结构是什么？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "体心立方（BCC）"
+            },
+            {
+                "label": "B",
+                "text": "面心立方（FCC）"
+            },
+            {
+                "label": "C",
+                "text": "六方密排（HCP）"
+            },
+            {
+                "label": "D",
+                "text": "四方晶系"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 192,
+        "question": "奥氏体的晶体结构: 奥氏体在钢中的晶体结构是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "体心立方（BCC）"
+            },
+            {
+                "label": "B",
+                "text": "面心立方（FCC）"
+            },
+            {
+                "label": "C",
+                "text": "六方密排（HCP）"
+            },
+            {
+                "label": "D",
+                "text": "四方晶系"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 193,
+        "question": "马氏体的特点: 马氏体的晶体结构通常是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "体心立方（BCC）"
+            },
+            {
+                "label": "B",
+                "text": "面心立方（FCC）"
+            },
+            {
+                "label": "C",
+                "text": "体心四方（BCT）"
+            },
+            {
+                "label": "D",
+                "text": "六方密排（HCP）"
+            }
+        ],
+        "rightanswer": "C"
+    },
+    {
+        "id": 194,
+        "question": "位错的类型: 金属材料中常见的位错类型是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "螺位错和刃位错"
+            },
+            {
+                "label": "B",
+                "text": "孔洞和裂纹"
+            },
+            {
+                "label": "C",
+                "text": "晶界和孪晶"
+            },
+            {
+                "label": "D",
+                "text": "空位和间隙原子"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 195,
+        "question": "固溶强化的本质: 固溶强化的本质是通过合金元素的溶解来：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "提高材料的导电性"
+            },
+            {
+                "label": "B",
+                "text": "阻碍位错的运动，增加强度"
+            },
+            {
+                "label": "C",
+                "text": "增加晶粒尺寸"
+            },
+            {
+                "label": "D",
+                "text": "提高塑性"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 195,
+        "question": "铁-碳相图中的共析点: 在铁-碳相图中，共析点的碳含量和温度分别是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "0.8% C，727°C"
+            },
+            {
+                "label": "B",
+                "text": "0.6% C，727°C"
+            },
+            {
+                "label": "C",
+                "text": "0.8% C，910°C"
+            },
+            {
+                "label": "D",
+                "text": "0.6% C，910°C"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 196,
+        "question": "共析反应的定义: 在铁-碳相图中，共析反应是指：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "液态直接转变为固态"
+            },
+            {
+                "label": "B",
+                "text": "单一固态分解为两种不同固态"
+            },
+            {
+                "label": "C",
+                "text": "固态分解为液态和另一种固态"
+            },
+            {
+                "label": "D",
+                "text": "固态分解为气态"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 197,
+        "question": "珠光体的形成温度: 在铁-碳合金中，珠光体主要在以下哪个温度范围内形成？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "400-600°C"
+            },
+            {
+                "label": "B",
+                "text": "600-727°C"
+            },
+            {
+                "label": "C",
+                "text": "727-900°C"
+            },
+            {
+                "label": "D",
+                "text": "900-1000°C"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 198,
+        "question": "马氏体的形成条件: 马氏体在钢中的形成主要依赖于：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "缓慢冷却到室温"
+            },
+            {
+                "label": "B",
+                "text": "快速冷却（淬火）到Ms点以下"
+            },
+            {
+                "label": "C",
+                "text": "快速加热到Ac1点以上"
+            },
+            {
+                "label": "D",
+                "text": "缓慢加热到Ac3点"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 199,
+        "question": "铁素体在铁-碳相图中的位置: 在铁-碳相图中，铁素体的稳定区主要位于：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "0-0.022% C"
+            },
+            {
+                "label": "B",
+                "text": "0.4-0.6% C"
+            },
+            {
+                "label": "C",
+                "text": "0.8-1.2% C"
+            },
+            {
+                "label": "D",
+                "text": "2.0-4.3% C"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 200,
+        "question": "贝氏体的相变类型: 在钢的热处理中，贝氏体属于哪种相变类型？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "无扩散相变"
+            },
+            {
+                "label": "B",
+                "text": "扩散控制相变"
+            },
+            {
+                "label": "C",
+                "text": "固溶相变"
+            },
+            {
+                "label": "D",
+                "text": "共析相变"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 201,
+        "question": "铁-碳相图的临界温度: 在铁-碳相图中，Ac3温度的定义是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "奥氏体完全形成的最低温度"
+            },
+            {
+                "label": "B",
+                "text": "奥氏体完全分解的最高温度"
+            },
+            {
+                "label": "C",
+                "text": "铁素体和珠光体共存的温度"
+            },
+            {
+                "label": "D",
+                "text": "珠光体和渗碳体共存的温度"
+            }
+        ],
+        "rightanswer": "A"
+    },
+    {
+        "id": 202,
+        "question": "合金相图的应用: 合金相图在热处理工艺中的应用主要是为了：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "预测材料的导电性能"
+            },
+            {
+                "label": "B",
+                "text": "指导加热和冷却过程中的相变控制"
+            },
+            {
+                "label": "C",
+                "text": "增加材料的塑性"
+            },
+            {
+                "label": "D",
+                "text": "提高材料的熔点"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 203,
+        "question": "珠光体的显微结构: 珠光体的显微结构是由什么组成的？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "细小的马氏体和铁素体混合体"
+            },
+            {
+                "label": "B",
+                "text": "铁素体和渗碳体交替分布的层状结构"
+            },
+            {
+                "label": "C",
+                "text": "细针状的奥氏体结构"
+            },
+            {
+                "label": "D",
+                "text": "等轴的奥氏体晶粒"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 204,
+        "question": "珠光体的硬度和塑性: 珠光体相较于铁素体，其硬度和塑性如何变化？",
+        "answers": [
+            {
+                "label": "A",
+                "text": "硬度降低，塑性增加"
+            },
+            {
+                "label": "B",
+                "text": "硬度提高，塑性降低"
+            },
+            {
+                "label": "C",
+                "text": "硬度和塑性均降低"
+            },
+            {
+                "label": "D",
+                "text": "硬度和塑性均提高"
+            }
+        ],
+        "rightanswer": "B"
+    },
+    {
+        "id": 205,
+        "question": "相变速度与冷却速率的关系: 在钢的淬火过程中，相变速度与冷却速率的关系是：",
+        "answers": [
+            {
+                "label": "A",
+                "text": "冷却速度越快，相变速度越慢"
+            },
+            {
+                "label": "B",
+                "text": "冷却速度越快，相变速度越快"
+            },
+            {
+                "label": "C",
+                "text": "冷却速率与相变速度无关"
+            },
+            {
+                "label": "D",
+                "text": "冷却速率降低，相变速度增加"
+            }
+        ],
+        "rightanswer": "B"
+    }
+]

@@ -1,0 +1,141 @@
+以下是一个中英双语版本的 `README.md` 文件：
+
+---
+
+# SHTKU Question Bank
+
+**SHTKU Question Bank** 是一个用于热处理行业知识问答的题库系统，旨在帮助学习者和从业人员巩固热处理工艺及相关领域的理论知识。本项目包含了多种热处理领域的知识点，分为多个大类和子类，涵盖基础理论、工艺设计、表面处理、缺陷分析、材料选择、生产管理和金属材料科学基础等知识模块。
+
+The **SHTKU Question Bank** is a question bank system for knowledge assessment in the heat treatment industry, aimed at helping learners and professionals reinforce theoretical knowledge related to heat treatment processes and associated fields. This project includes knowledge points in multiple areas of heat treatment, categorized into major and subcategories, covering fundamental theory, process design, surface treatment, defect analysis, material selection, production management, and foundations of metallurgical science.
+
+## 目录结构 (Directory Structure)
+
+项目的目录结构如下：
+
+The project directory structure is as follows:
+
+```plaintext
+SHTKUQuestionBank/
+├── SHTKU题库/                # 包含所有题目的文件夹，每个大类以独立的 Markdown 文件存储
+                             # Contains all questions in separate markdown files for each major category
+├── scripts/
+│   ├── generate_json.py      # 从题库生成 JSON 格式的题目数据
+                             # Generates question data in JSON format from the question bank
+│   ├── statistics_chart.py   # 生成题目分布的统计饼图
+                             # Creates a statistical pie chart showing question distribution
+├── README.md                 # 项目说明文件
+                             # Project description file
+└── requirements.txt          # Python 依赖库列表
+                             # List of Python dependencies
+```
+
+### 主要文件和文件夹 (Key Files and Folders)
+
+- **SHTKU题库/**: 包含所有题目文件，每个大类存储在独立的 `.md` 文件中，文件以自然顺序排序。
+  Contains all question files, with each major category stored in separate `.md` files, sorted in natural order.
+- **scripts/**: 存放辅助脚本，`generate_json.py` 脚本将题目数据提取并转换为 JSON 格式，`statistics_chart.py` 脚本则生成题目分类的统计饼图。
+  Stores auxiliary scripts, `generate_json.py` extracts and converts question data into JSON format, and `statistics_chart.py` generates a statistical pie chart for question categories.
+- **README.md**: 项目说明文件。
+  Project description file.
+- **requirements.txt**: 列出了项目运行所需的 Python 依赖库。
+  Lists Python dependencies required for running the project.
+
+## 项目功能 (Project Features)
+
+1. **题库管理**: 通过 Markdown 文件管理题目，按大类分类。
+   Question Bank Management: Manages questions through Markdown files, categorized by major topics.
+   
+2. **数据转换**: 使用 `generate_json.py` 脚本从 Markdown 文件生成 JSON 格式的数据，便于其他系统使用。
+   Data Conversion: Uses `generate_json.py` script to convert questions from Markdown to JSON format for use in other systems.
+
+3. **题目统计**: 使用 `statistics_chart.py` 脚本生成题目分布统计图，包括各大类题目数量的饼图展示。
+   Question Statistics: Uses `statistics_chart.py` script to generate a statistical chart, including a pie chart showing the number of questions in each major category.
+
+## 如何使用 (How to Use)
+
+### 环境要求 (Environment Requirements)
+
+1. **Python 3.x**: 确保已安装 Python 3.x。
+   Ensure Python 3.x is installed.
+2. **依赖库安装**: 安装项目所需的 Python 库，使用以下命令：
+   Install required Python libraries for the project with the following command:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+### 使用步骤 (Usage Steps)
+
+1. **题库数据转换**: 运行 `generate_json.py` 脚本，将 Markdown 文件中的题目提取并转换为 JSON 格式，方便进行数据存储和分析。
+   Question Data Conversion: Run `generate_json.py` to extract and convert questions from Markdown files into JSON format, facilitating data storage and analysis.
+
+   ```bash
+   python scripts/generate_json.py
+   ```
+
+   生成的 JSON 文件将保存在项目目录中。
+   The generated JSON file will be saved in the project directory.
+
+2. **生成题目分布图**: 运行 `statistics_chart.py` 脚本，从题库中提取各类题目数量并生成饼图。
+   Create Question Distribution Chart: Run `statistics_chart.py` to extract the number of questions per category and generate a pie chart.
+
+   ```bash
+   python scripts/statistics_chart.py
+   ```
+
+   生成的统计图像将保存在项目目录中。
+   The generated chart will be saved in the project directory.
+
+### 示例 (Examples)
+
+Markdown 文件的题目示例 (Example of Question in Markdown File):
+
+```markdown
+# 1. **Fundamental Theory of Heat Treatment**
+## 1.1 Purpose and Definition
+### 1. What is the main purpose of heat treatment?
+   - A. Change the color and shape of materials
+   - B. Alter the internal structure and properties of materials
+   - C. Modify the chemical composition
+   - D. Improve surface roughness
+- **Correct Answer: B**
+```
+
+### 输出示例 (Output Example)
+
+运行 `generate_json.py` 后的 JSON 示例 (Sample JSON after running `generate_json.py`):
+
+```json
+[
+    {
+        "id": 1,
+        "question": "What is the main purpose of heat treatment?",
+        "answers": [
+            {"label": "A", "text": "Change the color and shape of materials"},
+            {"label": "B", "text": "Alter the internal structure and properties of materials"},
+            {"label": "C", "text": "Modify the chemical composition"},
+            {"label": "D", "text": "Improve surface roughness"}
+        ],
+        "rightanswer": "B"
+    }
+]
+```
+
+运行 `statistics_chart.py` 后生成的题目分布饼图示例 (Example of the Pie Chart generated by `statistics_chart.py`):
+
+![SHTKU Question Distribution](SHTKU_Question_Distribution.png)
+
+## 贡献指南 (Contributing Guide)
+
+欢迎对本项目提出改进建议，贡献代码，或报告问题。请确保在提交前检查代码格式，并附上清晰的说明。
+
+We welcome suggestions for improvements, contributions, or bug reports. Please ensure that code formatting is checked before submission and include clear descriptions.
+
+## 许可证 (License)
+
+本项目采用 [MIT License](LICENSE)。
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Coming soon 
+SHTKU自动化测评系统正在整理中，即将整合至仓库
